@@ -3,3 +3,4 @@ b = 5.22 #b is a floating value
 c = "sriman" #c is a string value 
 d = True #d is a boolean value 
 e = None #e is a none value 
+print(a,b,c,d,e)
